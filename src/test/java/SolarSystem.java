@@ -9,5 +9,10 @@ public class SolarSystem {
         archilies.color="red";
         archilies.temp= " 567";
         archilies.size= "123";
+
+        planet2 dd= new planet2();
+        dd.size="234";
+        dd.radius="4456";
+        
     }
 }
