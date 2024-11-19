@@ -15,5 +15,10 @@ public class SolarSystem {
         slayer.temp="-908k";
 
 
-}
+
+        planet2 dd= new planet2();
+        dd.size="234";
+        dd.radius="4456";
+        
+    }
 }
